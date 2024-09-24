@@ -1,0 +1,9 @@
+C:\Users\Вера\Desktop\C#\yp5\yp5\obj\Debug\yp5.csproj.AssemblyReference.cache
+C:\Users\Вера\Desktop\C#\yp5\yp5\obj\Debug\ItemsWindow.g.cs
+C:\Users\Вера\Desktop\C#\yp5\yp5\obj\Debug\MainWindow.g.cs
+C:\Users\Вера\Desktop\C#\yp5\yp5\obj\Debug\App.g.cs
+C:\Users\Вера\Desktop\C#\yp5\yp5\obj\Debug\yp5_Content.g.cs
+C:\Users\Вера\Desktop\C#\yp5\yp5\obj\Debug\yp5_MarkupCompile.cache
+C:\Users\Вера\Desktop\C#\yp5\yp5\obj\Debug\yp5_MarkupCompile.lref
+C:\Users\Вера\Desktop\C#\yp5\yp5\obj\Debug\AdminWindow.g.cs
+C:\Users\Вера\Desktop\C#\yp5\yp5\obj\Debug\UserWindow.g.cs

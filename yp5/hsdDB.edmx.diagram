@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7025057b85f44948bf988b571d2220c3" Name="Diagram1" ZoomLevel="79">
+        <EntityTypeShape EntityType="hsdModel.ItemCategories" Width="1.5" PointX="0.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="hsdModel.ItemPrices" Width="1.5" PointX="5.25" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="hsdModel.Items" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="hsdModel.ItemTypes" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="hsdModel.OrderDetails" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="hsdModel.Orders" Width="1.5" PointX="3" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="hsdModel.Players" Width="1.5" PointX="0.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="hsdModel.PurchaseHistory" Width="1.5" PointX="5.25" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="hsdModel.Roles" Width="1.5" PointX="7.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="hsdModel.Shops" Width="1.5" PointX="0.75" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="hsdModel.Users" Width="1.5" PointX="10" PointY="0.875" IsExpanded="true" />
+        <AssociationConnector Association="hsdModel.FK__Items__CategoryI__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="hsdModel.FK__ItemPrice__ItemI__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="hsdModel.FK__Items__TypeID__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="hsdModel.FK__OrderDeta__ItemI__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="hsdModel.FK__PurchaseH__ItemI__4E88ABD4" ManuallyRouted="false" />
+        <AssociationConnector Association="hsdModel.FK__OrderDeta__Order__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="hsdModel.FK__Orders__PlayerID__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="hsdModel.FK__Orders__ShopID__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="hsdModel.FK__PurchaseH__Playe__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="hsdModel.FK__Users__RoleID__534D60F1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
